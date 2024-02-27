@@ -2,4 +2,4 @@
 `pip install -r requirements.txt`
 
 # Usage
-Run `custom.iypnb` file for experiment results
+Run `experiment.iypnb` file for experiment results
